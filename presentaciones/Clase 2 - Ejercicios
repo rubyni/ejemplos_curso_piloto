@@ -1,0 +1,52 @@
+Ejercicios
+
+I)Repaso de variables, condicionales y arreglos , y objetos
+
+*Jugando con la utilización de gemas: Instale la gema sexmachine 
+(sugerida en los foros) y usela: https://github.com/bmuller/sexmachine.
+
+
+*Utilizando la gema ‘Geocoder’, podemos obtener información de cualquier
+ciudad del mundo.  Utilizar dicha gema, para obtener un hash con los datos
+de Nicaragua, almacenar este hash e imprimir su:  nombre, latitud y longitud.
+
+II)Hashes y símbolos
+*Cree una Hash que contenga 7 colores y estos seran llave de un valor numérico
+entre el 1-7, luego de ello imprima en pantall las LLave de la hash .
+
+*Un restaurante tiene tres platillos principales , El Ramen, El Okonomiyaki,
+Sushi  y el Shirako, cuyos precios son 200, 700,600  y 1500 Respectivamente, 
+al restaurante le va bien pero se ve forzado a subir los precios debido al 
+incremento de los costos , usar el método “Each” para incrementar el precio 
+de los platillos en al menos un 10 por ciento.
+
+III)Bloques y funciones
+*Cree  cuatro bloques , siendo cada uno de ellos : Adicion, sustraccion,
+multiplicacion y division, cada bloque debe aceptar dos valores, realizar 
+la operación y retornar un estado. 
+
+*Cree un programa que calcule el area y  perimetro de un cuadrado y un 
+círculo, tambien el area de un octaedro 23*(a*a) donde a es el tamaño de las
+aristas, utilice las funciones para realizar esto.
+
+IV) Expresiones regulares
+*Cree un script que contenga la variable Teléfono = “505-2289-4719 # Comentario”, 
+use las expresiones regulares para: 1- eliminar todo lo que existe después del 
+numeral, 2-eliminar todo lo que no sea dígitos.
+*Cree un script que contenga la variable texto=”Doubutsu nya to nya to nya!”, 
+use las expresiones regulares para:
+1- Cambiar la palabra doubutsu por Neko, 
+2-Capitalizar la palabra Nya.
+
+Pista: Use/Busque el método gsub para lograr el reemplazo.
+
+V)Clases, herencia, variables , métodos de instancia  y de clases
+Cree la clase hexágono que contenga los métodos Area, y perimetro(busque en internet),
+luego llame a las funciones de esa clase.
+
+Defina una clase llamada Planeta que cuente el número de instancias de planetas creadas,
+cree al mas de 5 planetas, recuerde que las variables de la clase llevan el prefijo’@@’ 
+y las de instancia ‘@’.
+
+Palíndromo se le llama a las palabras que pueden leerse igual  hacia delante y hacia atrás.
+Haga un monkey patch de la clase Cadena, que permita saber si una cadena es palíndromo o no.
